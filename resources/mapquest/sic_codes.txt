@@ -1,0 +1,304 @@
+SIC Code,SIC Label,Count
+13901,Agricultural Products,24218
+19101,Farms,1336
+74220,Veterinarians Dvm Vmd Public Health,39954
+75203,Animal Shelters,2619
+75210,Pet Services,35535
+97101,Hunting & Fishing Preserves,46
+97106,Wildlife Conservation,319
+149901,Mining Companies,3761
+152130,Construction Building Contractors,461682
+154235,Buildings Factory,38
+175203,Flooring,42138
+203301,Preserves (Manufacturers),801
+208401,Wineries,6946
+274105,Publishers,13788
+371102,Automobile Manufacturers,358
+399903,Manufacturers,71336
+401190,Train Stations,4636
+411101,Airport Transportation Service,2852
+411902,Ambulance Service,7779
+411904,Car Service,244437
+411906,Rescue Squads,590
+411914,Transportation Services,92967
+412101,Taxis,22215
+413101,Bus Lines,4737
+414201,Buses Charter & Rental,3233
+421205,Delivery Service,37913
+421401,Moving Services,58022
+431101,Post Offices,31233
+448290,Ferry Terminals,840
+449306,Marinas,3359
+449903,Boat Launching,2133
+451201,Airline Companies,11
+458106,Airports,479
+472401,Tourist Information,4090
+472402,Travel Agents,44151
+478502,Scales Public,1432
+481302,Telecommunications Services,15928
+481304,Telephone Companies,66729
+491101,Electric Companies,4946
+501209,Buses-New & Used (Wholesale),23
+501210,Recreational Vehicles Wholesale,9655
+501227,Snowmobiles Wholesale & Distributors,2024
+502332,Curtains Shower & Bath Wholesale,58856
+503999,Construction Materials NEC (Wholesale),263216
+504403,Copiers,39529
+504498,Office Equipment (Wholesale),42081
+504704,Medical Supplies,50220
+506304,Security Control Equipment & Systems-Wholesale,18502
+508702,Beauty Salons-Equipment & Supplies (Wholesale),338362
+509312,Recycling Centers (Wholesale),15689
+512203,Pharmaceutical Products Wholesale,2358
+514701,Butchering (Wholesale),12876
+516916,Chemicals (Wholesale),4863
+519402,Cigar Cigarette & Tobacco Dealers-Wholesale,37457
+521107,Windows,475
+521135,Electric Equipment & Supplies Retail,67546
+521138,Home Centers,46003
+523107,Paint Stores,15015
+525104,Hardware Stores,28789
+526104,Garden Centers,35376
+531102,Department Stores,38931
+531104,Retail Shops,121763
+531110,Wholesale Clubs,12339
+533101,Variety Stores,38081
+541101,Food Markets,61138
+541103,Convenience Stores,34900
+541105,Grocery Stores,86621
+541108,Grocers Health Foods,12830
+542101,Seafood Markets,4009
+543102,Farm Markets,2
+546103,Bakers Cake & Pie,32449
+546105,Doughnuts,8279
+549910,Food Specialties Retail,9111
+549999,Miscellaneous Food Stores,24540
+551102,(All) Auto Dealers,137570
+551105,Truck Dealers-New,1664
+551108,Vans Dealers,295
+553129,Automobile Accessories,11014
+554101,Gas Stations,187639
+554103,Truck Stops & Plazas,1254
+554112,Electric Charging Station,9032
+555103,Boat Equipment & Supplies,1614
+555104,Boat Dealers,7472
+555107,Yachts,141
+557101,All Terrain Vehicles,1
+557106,Motorcycle Dealers,11317
+564103,Children's Clothing,9256
+565101,Clothing Retail,130215
+566112,Rubber & Plastic Footwear Retail,36951
+569913,Sportswear,71814
+569919,Tailors,43
+571216,Furniture Stores,104016
+571921,Chinaware & Glassware Retail,8130
+571926,Lighting Stores,10390
+571928,Kitchen Accessories,16146
+572233,Grills Barbecue,14192
+573117,Electronic Equipment & Supplies Retail,56537
+573122,Marine Electronic Equipment & Supplies Retail,2
+573132,Dvd Sales & Service,36185
+573401,Computer Software,2563
+573402,Computer Parts & Supplies,96229
+573608,Musical Instruments,17372
+581203,Ice Cream Parlors,17970
+581206,Foods Carry Out,16
+581208,(All) Restaurants,474134
+581209,Delicatessens,20714
+581212,Caterers,13546
+581213,Cafeterias,1004
+581214,Cafes,56929
+581217,Appetizers & Snacks Etc,1244
+581219,Subs & Sandwiches,13628
+581223,Banquet Rooms,13717
+581226,Theatres Dinner,95
+581228,Coffee Shops,30241
+581236,Tea Rooms,592
+581248,Juice Bars,3202
+581254,Restaurants Cyber Cafes,1462
+581301,Bars,59125
+581302,Discotheques,224
+581303,Cocktail Lounges,13838
+581305,Pubs,9409
+581307,Comedy Clubs,358
+581309,Karaoke Clubs,9
+591205,Pharmacies,102403
+592103,Wines Retail,43604
+593218,Flea Markets,124
+593229,Pawn Shops,75
+594142,Bicycle Racks & Security Systems,346
+594201,Book Stores,20366
+594409,Jewelers,62111
+594508,Hobby & Model Shops,24940
+594517,Toy Stores,17975
+594712,Gift Shops,64362
+599201,Florists,33900
+599504,Opticians,21872
+599902,Cell Phones,62971
+599929,Pet Supplies,19004
+599931,Factory Outlets,7515
+599940,Wedding Supplies & Services,50
+599969,Art Galleries & Dealers,30224
+599972,Monuments,667
+602101,Banks,174165
+609901,Currency Exchanges,18848
+621111,Investments,131911
+623102,Stock Exchanges,919
+628205,Financial Planners,81182
+637104,Government Pension Health/Welfare Funds,53392
+641112,(All) Insurance,241406
+651201,Shopping Centers & Malls,15807
+651301,Condominiums,7470
+651303,Apartments,16838
+651401,Townhouses,81
+653118,Real Estate Agents,386278
+653123,Housing Rental,742
+655202,Real Estate Developers,22892
+701101,Hotels & Motels,96807
+701106,Cottages & Cabins,2397
+701107,Bed & Breakfasts,10771
+701108,Chalet & Cabin Rentals,1
+701110,Skiing Centers & Resorts,432
+701111,Resorts,10955
+701116,Villas,4
+702103,Hostels,688
+703208,Adventure Games & Activities,40
+703301,Campgrounds,10250
+721201,Dry Cleaners,45845
+721999,Laundry & Garment Services NEC,17338
+722121,Photography,37639
+723102,Manicurists,50872
+724101,Barbers,53512
+726103,Funeral Homes,29711
+729101,Tax Return Preparation & Filing,47183
+731115,Advertising Marketing,129413
+731908,Distribution Services,21690
+734922,House Cleaning,73843
+735922,Toilets Portable,28
+735999,Misc Equipment Rental & Leasing,14841
+737101,Computer Services,53593
+738114,Traffic Control Services,4
+738301,News Service,37414
+738409,Photo Laboratories Commercial,6444
+738931,Convention & Meeting Facilities & Service,4306
+738999,Business Services NEC,203798
+751401,Auto Rental,54098
+752102,Parking Garages,42364
+753201,Auto Body Shops,78999
+753402,Tire Service,47302
+753698,Glass Replacement Shops,18624
+753812,Truck Repair & Service,31354
+754201,Car Washes,24201
+762902,Appliances Household Major Repairing,4736
+769967,Motorcycle Repair & Service,6430
+769999,Repair Shops & Related Services NEC,10100
+783201,Movie Theatres,6028
+783301,Movie Theatres (drive-Ins),23
+784102,Video & DVD Rental,7721
+792207,Theatres Live,10670
+792213,Concert Venues,23
+792905,Entertainment Bureaus,238
+793301,Bowling Centers,4281
+794104,Stadiums Arenas & Athletic Fields,3573
+794801,Race Tracks,1502
+794803,Horse Racing,14
+799101,Health Clubs & Gyms,85116
+799290,Golf Courses-Public Or Private,18561
+799302,Casinos,1926
+799303,Arcades,542
+799601,Amusement Places,6815
+799602,Water Parks,2592
+799604,Amusement Parks,625
+799701,Recreation Centers,967
+799705,Hockey Clubs,197
+799712,Flying Clubs,156
+799714,Beach & Cabana Clubs,199
+799729,Sports Recreational,6212
+799901,Skating Rinks,1874
+799909,Bicycles Renting,12
+799910,Baths Bath Houses Spas & Saunas,443
+799912,Billiard Parlors,7262
+799923,Fairgrounds,9
+799940,Historical Places,222
+799951,Parks,51424
+799954,Picnic Grounds,22
+799968,Horseback Riding,5409
+799969,Swimming Pools Public,2917
+799971,Tennis Courts Public,1429
+799984,Squash Courts Public,13
+801101,(All) Doctors,412621
+802101,(All) Dentists,153963
+805904,Retirement Communities & Homes,3651
+805911,Homes Personal Care Facility,133387
+805999,Nursing & Personal Care NEC,270988
+806202,Hospitals,49614
+806203,Emergency Medical & Surgical Service,1139
+806998,Specialty Hospitals Except Psychiatric,995
+809916,Blood Banks & Centers,4
+811198,Legal Services,318059
+821103,Schools (K-12),133832
+821107,Schools With Special Academic Education,434
+821115,Technical Schools,4359
+822101,Colleges & Universities,21809
+822298,Junior Colleges & Technical Institutes,3
+823106,Libraries,20432
+824999,Vocational Schools NEC,11783
+829902,Driving Instruction,7825
+829912,Language Schools,1926
+829919,Art Schools,8459
+829924,Culinary Schools,456
+829950,Hiking Backpacking & Mountaineering Service,54
+829975,Sports Tutoring,20007
+832268,Soup Kitchens,39
+835101,Day Care,94190
+835102,Preschools,19436
+836105,Residential Care Homes,2
+841201,Museums,39399
+841204,Planetariums,5
+841206,Cultural Centres,2441
+841211,National Monuments,2
+842201,Zoos,184
+842203,Arboretums,378
+842205,Aquariums Public,87
+861112,Motoring Organisations,196
+864108,Clubs,22908
+864110,Community Organizations,16964
+866104,Church Organizations,322369
+866107,(All) Places Of Worship,53548
+866112,Synagogues,2274
+866114,Mosques,442
+866116,Ashrams,1
+869921,Dance Clubs,14436
+871147,Engineering,1238
+873101,Research Labs,26119
+873122,Laboratories Agricultural,36832
+873306,Observatories,3
+874838,Industrial Developments,56
+901006,Beach,3429
+901010,Cave,1
+901014,Forest,1
+901023,Ridge,6102
+901027,Valley,43218
+902101,Bay,3534
+902208,Rapids,346
+902209,Reservoir,43134
+902212,Swamp,1825
+903001,Bridge,2
+903002,Building,359
+903005,Dam,1
+903010,Tower,5
+911101,Federal Government Executive Offices,18873
+911102,State Government Executive Offices,1
+911104,City Government Executive Offices,42700
+919901,Federal Government General Offices,36072
+919902,State Government General Offices,9199
+919906,Government Offices Native American,3230
+922301,Federal Government Correctional Institutions,2163
+922404,Fire & Rescue,30016
+962105,Port Services,10947
+962107,Transportation Authorities,4061
+963104,City Government Regulation/Adm Comms/Utilities,46624
+971109,Military Bases,158
+972101,Federal Government International Affairs,1477
+999333,Tourist Attractions,1197
+TOTAL,,10353514

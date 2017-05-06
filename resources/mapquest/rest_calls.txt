@@ -1,0 +1,10 @@
+http://www.mapquestapi.com/search/v2/search?key=KEY&maxMatches=10&shapePoints=40.099998,-76.305603&hostedData=mqap.ntpois||
+
+http://www.mapquestapi.com/search/v2/radius?key=B25KKb83su2jgNSdTFU39O5rKLpi6A85&callback=renderExampleOneResults&origin=philadelphia,%20pa&hostedData=mqap.ntpois%7Cgroup_sic_code=?%7C581208&radius=10&maxMatches=1000
+
+http://www.mapquestapi.com/search/v2/radius?key=B25KKb83su2jgNSdTFU39O5rKLpi6A85&callback=renderExampleOneResults&origin=philadelphia,%20pa&hostedData=mqap.ntpois%7Cgroup_sic_code=?%7C799972&radius=10&maxMatches=1000
+
+
+http://www.mapquestapi.com/search/v2/radius?key=B25KKb83su2jgNSdTFU39O5rKLpi6A85&origin=philadelphia,%20pa&hostedData=mqap.ntpois%7Cgroup_sic_code=?%7C999333&radius=120&maxMatches=1000
+
+https://developer.mapquest.com/documentation/search-api/v2/points-of-interest/#sic-codes

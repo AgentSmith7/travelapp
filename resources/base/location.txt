@@ -1,0 +1,74 @@
+new york city
+boston
+atlantic city
+new england
+pittsburg
+baltimore
+washindton dc
+richmond
+virginia beach
+Roanoke
+Columbus ohio
+Cincinnati
+louisville
+charlotte
+myrtle beach
+atlanta
+chicago
+nashville
+detroit
+niagara
+knoxville
+albany
+orlando
+tampa
+miami
+key west
+fort myers
+nashville
+memphis
+st louis
+madison
+milwaukee
+minneapolis
+cedar rapids
+des moines
+kansas city
+new orleans
+houston
+austin
+dallas
+fort worth
+oklahoma city
+st antonio
+wichita
+denver
+salt lake city
+las vegas
+tucson
+phoenix
+albuquerque
+seattle
+portland
+san jose
+san francisco
+los angeles
+sacramento
+reno
+carson city
+philadelphia
+monterey
+aspen
+indianapolis
+St. Augustine
+Cleveland
+santa monica
+daytona beach
+omaha
+cape may
+harrisburg
+boulder
+charleston
+napa
+colorado springs
+chattanooga

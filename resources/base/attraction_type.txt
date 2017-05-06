@@ -1,0 +1,128 @@
+OTHERS -- NON Mapquest
+nascar tracks
+seaside resorts
+acquaria
+art museums
+castles
+festivals
+wine festivals
+beer festivals
+food festivals
+mexican fiestas
+state parks
+heritage railroads
+national park
+national battlefield parks
+national historic parks
+national lakeshores
+national military parks
+boardwalks
+fruit picking
+downtown
+nightlife
+national seashores
+water sports
+nature centers
+open-air and living history museums
+Renaissance fairs
+mountains
+indoor arenas
+reenactment sites
+hiking
+mountaineering
+creeks
+scenic drive
+cabin (cabin in the woods)
+tent grounds
+spas
+island
+balloon tour
+helicopter tour
+shows
+concert
+cruise
+schools and universities
+cites as a whole - hollywood, miami, etc
+
+
+
+MAPQUEST -- SIC Code,SIC Label,Count
+97101,Hunting & Fishing Preserves,46
+97106,Wildlife Conservation,319
+19101,Farms,1336
+208401,Wineries,6946
+449306,Marinas,3359
+581301,Bars,59125
+581302,Discotheques,224
+581303,Cocktail Lounges,13838
+581305,Pubs,9409
+581307,Comedy Clubs,358
+581309,Karaoke Clubs,9
+593218,Flea Markets,124
+599969,Art Galleries & Dealers,30224
+599972,Monuments,667
+651201,Shopping Centers & Malls,15807
+701110,Skiing Centers & Resorts,432
+701111,Resorts,10955
+703208,Adventure Games & Activities,40
+703301,Campgrounds,10250
+792207,Theatres Live,10670
+792213,Concert Venues,23
+793301,Bowling Centers,4281
+794104,Stadiums Arenas & Athletic Fields,3573
+794801,Race Tracks,1502
+794803,Horse Racing,14
+799290,Golf Courses-Public Or Private,18561
+799302,Casinos,1926
+799303,Arcades,542
+799601,Amusement Places,6815
+799602,Water Parks,2592
+799604,Amusement Parks,625
+799701,Recreation Centers,967
+799705,Hockey Clubs,197
+799712,Flying Clubs,156
+799714,Beach & Cabana Clubs,199
+799729,Sports Recreational,6212
+799901,Skating Rinks,1874
+799910,Baths Bath Houses Spas & Saunas,443
+799912,Billiard Parlors,7262
+799923,Fairgrounds,9
+799940,Historical Places,222
+799951,Parks,51424
+799954,Picnic Grounds,22
+799968,Horseback Riding,5409
+799969,Swimming Pools Public,2917
+799971,Tennis Courts Public,1429
+799984,Squash Courts Public,13
+829950,Hiking Backpacking & Mountaineering Service,54
+829975,Sports Tutoring,20007
+841201,Museums,39399
+841204,Planetariums,5
+841206,Cultural Centres,2441
+841211,National Monuments,2
+842201,Zoos,184
+842203,Arboretums,378
+842205,Aquariums Public,87
+864108,Clubs,22908
+866104,Church Organizations,322369
+866107,(All) Places Of Worship,53548
+866112,Synagogues,2274
+866114,Mosques,442
+866116,Ashrams,1
+869921,Dance Clubs,14436
+873101,Research Labs,26119
+873306,Observatories,3
+901006,Beach,3429
+901010,Cave,1
+901014,Forest,1
+901023,Ridge,6102
+901027,Valley,43218
+902101,Bay,3534
+902208,Rapids,346
+902209,Reservoir,43134
+902212,Swamp,1825
+903001,Bridge,2
+903002,Building,359
+903005,Dam,1
+903010,Tower,5
+999333,Tourist Attractions,1197
