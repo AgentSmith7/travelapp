@@ -8,3 +8,6 @@ http://www.mapquestapi.com/search/v2/radius?key=B25KKb83su2jgNSdTFU39O5rKLpi6A85
 http://www.mapquestapi.com/search/v2/radius?key=B25KKb83su2jgNSdTFU39O5rKLpi6A85&origin=philadelphia,%20pa&hostedData=mqap.ntpois%7Cgroup_sic_code=?%7C999333&radius=120&maxMatches=1000
 
 https://developer.mapquest.com/documentation/search-api/v2/points-of-interest/#sic-codes
+
+
+http://www.mapquestapi.com/search/v2/radius?key=B25KKb83su2jgNSdTFU39O5rKLpi6A85&origin=36.112101%2C-91.986981&hostedData=mqap.ntpois%7Cgroup_sic_code=?%7C97101&radius=1000&maxMatches=100
