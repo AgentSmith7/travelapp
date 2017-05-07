@@ -1,0 +1,52 @@
+TERMINOLOGY USED IN THE DOCUMENT
+buyers :: travelers
+sellers :: consultant
+## :: input taken from the user
+$$ :: output given to the user
+%% :: our back end calculation
+
+Our hypothesis is that the entry point to a seller is location, so if a buyer doesnt know which location he wants to visit, we have to help him.
+
+Buyers are mainly of 3 types
+(a) knows what location / locations they want to visit
+(b) do not know what locations they want to visit
+(c) knows 1 location but want to explore other locations nearby for the same trip
+
+
+
+case a: since buyer knows exactly, no suggestions required
+
+
+case b: Buyer doesnt know location(s) to visit.. Then we ask:
+	## current location
+	## when/what time of the year the trip is for
+	## how many days
+	## interests - TODO 1 - how to ask the interest ?
+	
+	%% create first set of suggestion - TODO 2 - how to find suggestions ?
+	(find suggestions along with reasons why we think they are good suggestions)
+	$$ output first set of suggestion, along with location, attractions, high level price, interest matching, distance
+	(suggestions should be interactive)
+	(TODO 3 - how to find high level price ?) 
+	## buyer can say "interested", "not interested", "may be"
+
+	%% create more suggestions based on user feedback - TODO 4 - how to incorporate feedback to create new suggestion ?
+	$$ output new suggestion list and repeat the process few times until buyer knows the location
+
+	version 2: 
+	## budget - will include this in version 2
+
+
+case c: Buyer have already decided on 1 location, suggest him others. Then we ask:
+	## do you need more suggestions	
+	if the answer is "yes", the process is same as case b, just that the suggestion list will be
+	first, close to location 1 that buyer has already decided
+	second, complements user's interest + location 1 
+
+
+TODOs:
+(1) how to ask the interest ?
+(2) how to find suggestions ?
+(3) how to find high level price of the suggestions?
+(4) how to incorporate feedback to create new suggestion ?
+

@@ -7,9 +7,9 @@ baltimore
 washindton dc
 richmond
 virginia beach
-Roanoke
-Columbus ohio
-Cincinnati
+roanoke
+columbus ohio
+cincinnati
 louisville
 charlotte
 myrtle beach
@@ -60,8 +60,8 @@ philadelphia
 monterey
 aspen
 indianapolis
-St. Augustine
-Cleveland
+st. augustine
+cleveland
 santa monica
 daytona beach
 omaha
