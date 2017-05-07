@@ -1,0 +1,42 @@
+#### This is to understand buyer, for better match making
+
+There are two parts of a buyer, knowing everything is not mandatory but will be useful
+  
+  (a) know him by his interest - this is a one time process, unless buyer interest changes with time
+	:: in general, what he likes and what he dislikes --> his interests and popular themes
+	:: how frequent he make trips
+	:: where have he been so far
+	:: normally with whom he makes trip
+	:: normally how much he spend in his trip
+
+  (b) know his INDIVIDUAL trip details - this is a continous process, every time when buyer wants to make a trip, we should know the following
+	:: time, duration, budget, what is the theme of his trip, other travelers, etc 
+
+Sources:
+(a) facebook login
+	check ins, comments about locations
+	photo tags
+
+(b) if used, location recommendation by us
+	we know his interests
+
+(c) if did not use, location recommendation by us
+	interest/themes
+	time and length of trip
+	budget	
+	commute modes (flight, drive, bus, train, cruise, etc)
+	how many people
+	is it a special occasion
+	is it just a relaxing trip
+	^^ very important ^^ give top 3/5 questions that you would ask the seller - this will be used for match making
+
+
+#### Main thing is: interest and themes... To know his interest, we can ask him
+	locations previously visited, and average time spend in each
+	float few common attraction types INTERSECTION with the ones he previously visited
+	float questions like
+		do u like road trips?
+		what do u like eating?
+		how much time u spend in pubs?
+		interested in history or concerts or sports
+		etc etc  
